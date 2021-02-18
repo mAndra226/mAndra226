@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mAndra226
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Kotlin and PHP
 
 <!---
