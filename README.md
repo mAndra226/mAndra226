@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mAndra226
+- 👋 Hi, I’m Marco Andrade
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Kotlin and PHP
 
