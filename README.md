@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco Andrade
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently a student at CSUF! 🐘
 
 <!---
